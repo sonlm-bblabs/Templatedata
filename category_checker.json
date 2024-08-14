@@ -1,0 +1,38 @@
+[
+    {
+        "id": "CatLanguage_1",
+        "name": "CatLanguage_1",
+        "filter_type": "CatLanguage",
+        "urlVideo": "catAnime%5CVideoFilter%5CCatLanguage/CatLanguage_1.mp4"
+    },
+    {
+        "id": "CatLanguage_2",
+        "name": "CatLanguage_2",
+        "filter_type": "CatLanguage",
+        "urlVideo": "catAnime%5CVideoFilter%5CCatLanguage/CatLanguage_2.mp4"
+    },
+    {
+        "id": "FisheyeCat_7",
+        "name": "FisheyeCat_7",
+        "filter_type": "FisheyeCat",
+        "urlVideo": "catAnime%5CVideoFilter%5CFisheyeCat/FisheyeCat_7.mp4"
+    },
+    {
+        "id": "FisheyeCat_8",
+        "name": "FisheyeCat_8",
+        "filter_type": "FisheyeCat",
+        "urlVideo": "catAnime%5CVideoFilter%5CFisheyeCat/FisheyeCat_8.mp4"
+    },
+    {
+        "id": "FisheyeCatDance_6",
+        "name": "FisheyeCatDance_6",
+        "filter_type": "FisheyeCatDance",
+        "urlVideo": "catAnime%5CVideoFilter%5CFisheyeCatDance/FisheyeCatDance_6.mp4"
+    },
+    {
+        "id": "FisheyeCatDance_10",
+        "name": "FisheyeCatDance_10",
+        "filter_type": "FisheyeCatDance",
+        "urlVideo": "catAnime%5CVideoFilter%5CFisheyeCatDance/FisheyeCatDance_10.mp4"
+    }
+]
